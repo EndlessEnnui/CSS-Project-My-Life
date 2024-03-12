@@ -52,18 +52,18 @@ for (i = 0; i < divs.length; i++) {
 }
 
 document.querySelector("#img-0").addEventListener("click", function(){
-    alert("What a wonderful life");
+    alert("What a wonderful life.");
 })
 document.querySelector("#img-1").addEventListener("click", function(){
-    alert("A happy home  life")
+    alert("A happy home life.")
 })
 document.querySelector("#img-2").addEventListener("click", function(){
 
-    alert("Supportive parents")
+    alert("Supportive parents.")
 })
 document.querySelector("#img-3").addEventListener("click", function(){
 
-    alert("The best siblings in the world")
+    alert("The best siblings in the world.")
 })
 document.querySelector("#img-4").addEventListener("click", function(){
 
@@ -75,7 +75,7 @@ document.querySelector("#img-5").addEventListener("click", function(){
 })
 document.querySelector("#img-6").addEventListener("click", function(){
 
-    alert("No, they couldn't tell the difference")
+    alert("No, they couldn't tell the difference.")
 })
 document.querySelector("#img-7").addEventListener("click", function(){
 
@@ -83,15 +83,15 @@ document.querySelector("#img-7").addEventListener("click", function(){
 })
 document.querySelector("#img-8").addEventListener("click", function(){
 
-    alert("They'll never find them")
+    alert("They'll never find them.")
 })
 document.querySelector("#img-9").addEventListener("click", function(){
 
-    alert("Even if they do")
+    alert("Even if they do.")
 })
 document.querySelector("#img-10").addEventListener("click", function(){
 
-    alert("I can replace them too")
+    alert("It wouldn't be a problem")
 })
 document.querySelector("#img-11").addEventListener("click", function(){
     document.querySelector("#text-1").style.visibility = "visible";
